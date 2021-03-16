@@ -19,10 +19,10 @@
             <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">images</a>
+            <a class="nav-link" href="images.php">images</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">contact</a>
+            <a class="nav-link" href="contact.php">contact</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="about.php">About us</a>
